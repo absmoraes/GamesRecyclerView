@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/drawable/finished_24.xml" value="0.3235" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/drawable/not_finished_24.xml" value="0.3235" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/layout/activity_cadastro.xml" value="0.33" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/layout/games_layout_rv.xml" value="0.5" />
+        <entry key="..\:/Users/Celso/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/menu/menu_cadastro.xml" value="0.5" />
+        <entry key="..\:/Users/f0170408/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/layout/activity_cadastro.xml" value="0.2625" />
+        <entry key="..\:/Users/f0170408/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/layout/activity_game_delete2.xml" value="0.11458333333333333" />
+        <entry key="..\:/Users/f0170408/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.16964285714285715" />
+        <entry key="..\:/Users/f0170408/AndroidStudioProjects/GamesRecyclerView/app/src/main/res/layout/games_layout_rv.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
